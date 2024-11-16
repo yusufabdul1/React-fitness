@@ -81,3 +81,7 @@ EDIT WORKOUT
 # Conclusion 🎉
 
 The Fitness Tracker Dashboard is a comprehensive, feature-rich application that demonstrates the power of React for building single-page applications. The project adheres to best practices, with clean code, modular components, and a polished user interface. Whether you're looking to track your workouts or just exploring React, this project showcases how a fitness dashboard can be efficiently built using modern web technologies.
+
+# Copyright & License
+
+© 2024 Fitness Tracker. All rights reserved. This project is under the ownership of Yusuf Abdul, no plagirism alowed.
