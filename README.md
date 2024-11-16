@@ -22,7 +22,8 @@ The Fitness Tracker Dashboard is a single-page React application designed to hel
 5. JavaScript (ES6): For dynamic and interactive features.
 
 # Link to website
-https://react-fitness-project.netlify.app/
+FRONTEND: https://react-fitness-project.netlify.app/
+BACKEND: https://react-fitness-backend-2.onrender.com/workouts
 
 # API Endpoints 🌐
 
