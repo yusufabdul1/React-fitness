@@ -1,11 +1,18 @@
 {
-    "workouts": [
-      {
-        "id": "36f3",
-        "name": "pushups",
-        "type": "strength",
-        "duration": "10",
-        "intensity": "High"
-      }
-    ]
-  }
+  "workouts": [
+    {
+      "id": "36f3",
+      "name": "pushups",
+      "type": "strength",
+      "duration": "10",
+      "intensity": "High"
+    },
+    {
+      "id": "5321",
+      "name": "Dips",
+      "type": "strength",
+      "duration": "5",
+      "intensity": "High"
+    }
+  ]
+}
