@@ -31,5 +31,3 @@ function App() {
 }
 
 export default App
-
-console.log("it is working")
