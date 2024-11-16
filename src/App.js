@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from '../../frontend-clean/src/components/Navbar';
-import Dashboard from '../../frontend-clean/src/components/Dashboard';
-import AddWorkout from '../../frontend-clean/src/components/AddWorkout';
-import WorkoutDetails from '../../frontend-clean/src/components/WorkoutDetails';
+import Navbar from '../src/components/Navbar';
+import Dashboard from '../src/components/Dashboard';
+import AddWorkout from '../src/components/AddWorkout';
+import WorkoutDetails from '../src/components/WorkioutDetails';
 import './App.css';
-import EditWorkout from '../../frontend-clean/src/components/EditWorkout';
+import EditWorkout from '../src/components/EditWorkout';
 
 function App() {
   const [workouts, setWorkouts] = useState([]);
