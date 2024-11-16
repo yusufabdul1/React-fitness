@@ -21,19 +21,8 @@ The Fitness Tracker Dashboard is a single-page React application designed to hel
 4. JSON Server: To simulate a backend RESTful API.
 5. JavaScript (ES6): For dynamic and interactive features.
 
-# How to Run the Project 🚀
-Prerequisites
-
-1. Node.js and npm installed
-2. JSON Server
-
-Setup instructions
-
-1. Clone the repository
-2. Install dependencies
-3. Start JSON Server
-4. Run the React App
-5. Open your browser and visit: http://localhost:3000
+# Link to website
+https://react-fitness-project.netlify.app/
 
 # API Endpoints 🌐
 
