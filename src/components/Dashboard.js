@@ -24,7 +24,7 @@ function Dashboard() {
     const confirmDelete = window.confirm('Are you sure you want to delete this workout?');
     if (!confirmDelete) return;
 
-    fetch(`http://localhost:3001/workouts/${id}`, {
+    fetch(`https://react-fitness-backend.onrender.com/workouts/${id}`, {
       method: 'DELETE',
     })
       .then(() => {
