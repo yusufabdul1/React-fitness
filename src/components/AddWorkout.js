@@ -17,7 +17,7 @@ function AddWorkout({ addNewWorkout }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    fetch('https://react-fitness-backend-2.onrender.com/workouts', {
+    fetch('https://react-fitness-backend-4.onrender.com/workouts', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(formData),

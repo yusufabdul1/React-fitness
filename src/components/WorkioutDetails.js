@@ -8,7 +8,7 @@ function WorkoutDetails() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`https://react-fitness-backend-2.onrender.com/workouts/${id}`)
+    fetch(`https://react-fitness-backend-4.onrender.com/workouts/${id}`)
       .then((response) => response.json())
       .then((data) => {
         setWorkout(data);
